@@ -1,6 +1,6 @@
 ### Bien ahi 🐳
 
-<img src="https://i.imgur.com/weNbhGZ.png](https://media1.tenor.com/m/9NJ0yGILncMAAAAd/programmer-programming.gif">
+<img src="<div class="tenor-gif-embed" data-postid="15757229" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/programmer-programming-computer-typing-made-it-to-work-baby-gif-15757229">Programmer Programming GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
