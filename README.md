@@ -48,11 +48,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan pablo gaviria orozco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan pablo gaviria orozco" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-pablo-gaviria-orozco-aa1335282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan pablo gaviria orozco" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23377145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23377145" height="30" width="40" /></a>
 <a href="https://fb.com/juan pablo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan pablo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/darkblack575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="darkblack575" height="30" width="40" /></a>
 </p>
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
