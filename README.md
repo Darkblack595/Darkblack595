@@ -3,10 +3,34 @@
 </div>
 
 <p align="center">
-  <img src="[[https://github.com/Darkblack595/Darkblack595/assets/141966367/746d0201-f4d5-492b-bb40-f77d5df214fa" alt="Programmer Programming GIF](https://tenor.com/es/view/monkey-developer-software-coding-debug-gif-15160023)](https://github.com/Darkblack595/Darkblack595/assets/141966367/11ff58a4-c1b0-4134-a5ef-372cffa545c1)">
+  <img src="https://github.com/Darkblack595/Darkblack595/assets/141966367/d4620fc8-4b58-479f-85e5-ad35b023564b" alt="Monkey Developer GIF">
 </p>
 
+--------------------------------------------------------------------------------------------------------------------------------
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boton animado para Redes Sociales</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="buttons">
+      <a href="#" class="fa fa-facebook"></a>
+      <a href="#" class="fa fa-twitter"></a>
+      <a href="#" class="fa fa-google-plus"></a>
+      <a href="#" class="fa fa-youtube"></a>
+      <a href="#" class="fa fa-linkedin"></a>
+    </section>
+
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### ⚙️ &nbsp;GitHub Analytics
 
