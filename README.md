@@ -2,9 +2,9 @@
 <h1 align="center">Bien ahi 🐳 </h1>
 </div>
 
-![programmer-programming (1)](https://github.com/Darkblack595/Darkblack595/assets/141966367/746d0201-f4d5-492b-bb40-f77d5df214fa)
-
-
+<p align="center">
+  <img src="[[https://github.com/Darkblack595/Darkblack595/assets/141966367/746d0201-f4d5-492b-bb40-f77d5df214fa" alt="Programmer Programming GIF](https://tenor.com/es/view/monkey-developer-software-coding-debug-gif-15160023)](https://github.com/Darkblack595/Darkblack595/assets/141966367/11ff58a4-c1b0-4134-a5ef-372cffa545c1)">
+</p>
 
 
 
