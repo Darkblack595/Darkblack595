@@ -11,7 +11,7 @@
 
 - 👦 My name is **Juan Pablo**
 
-- 🌍 I living in **Bello, Antioquia, Colombia**
+- 🌍 I’m living in **Bello, Antioquia, Colombia**
 
 - 🤷‍♂️ I’m looking to **learn some new lenguages**
 
